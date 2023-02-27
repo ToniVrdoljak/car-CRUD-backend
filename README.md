@@ -70,4 +70,4 @@ and add mysql connector dependency
 ```
 
 For detailed example see 
-[mysql branch](https://gitlab.com/full-stack-crud-car/car-crud-backend/-/tree/feature/mysql-db) of this project.
+[mysql branch](https://github.com/ToniVrdoljak/car-CRUD-backend/tree/feature/mysql-db) of this project.
